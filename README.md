@@ -62,6 +62,25 @@ fn main() {
     println!("Hello, Rustaceans! 🦀🚀");
 }
 ```
+📚 Resources for Learning Rust
+
+Here are some amazing resources I’m using to learn Rust:
+
+📖 The Rust Programming Language (The Book)
+ – Official guide, great for beginners
+
+🦀 Rustlings
+ – Small exercises to practice Rust concepts
+
+📘 Rust by Example
+ – Hands-on examples with explanations
+
+🎥 Rust Crash Course (YouTube)
+ – Beginner-friendly video tutorial
+
+🌐 Rust Official Website
+ – Docs, tools, and community links
+
 ⭐ Support
 
 If you’re also learning Rust, feel free to ⭐ this repo and join the journey!
